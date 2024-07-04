@@ -8,6 +8,8 @@ This project provides an in-depth evaluation of CO2 emissions across London’s 
 
 2. Python Code
 
-3. Emission Data: Raw data on CO2 emissions in London.
+3. HTML notebook
 
-4. Population Data: Population over time for each borough.
+4. Emission Data: Raw data on CO2 emissions in London.
+
+5. Population Data: Population over time for each borough.
